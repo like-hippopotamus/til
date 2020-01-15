@@ -1,3 +1,9 @@
 # Tips
 ##### 参考ページ
+###### Carbon
 - [Carbonで時間操作する実例](https://blog.capilano-fw.com/?p=867)
+###### PhpSpreadsheet
+- [公式ドキュメント](https://phpspreadsheet.readthedocs.io/en/latest/)
+- [PhpSpreadsheetの使い方](https://qiita.com/sudnonk12/items/a0d58cc0f6ff1c6e2765)
+- [PhpSpreadsheetのTIPSあれこれ](https://qiita.com/BRSF/items/ed32311d48161be7c719)
+- [PhpSpreadsheetでExcelを操作する全26実例](https://blog.capilano-fw.com/?p=3945)
