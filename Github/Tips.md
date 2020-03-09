@@ -266,5 +266,67 @@ URLが長くて読みづらくなる場合や同じリンクを何度も使用�
 |1 |2 |3 |
 |4 |5 |6 |
 
+# 記述
+違いは`</summary>`後の空行だけ。
+
+```html
+<details>
+<summary>これは中身が整形されない</summary>
+1. 野菜**A**の皮を剥く。
+2. 乱切りにする。
+3. 調味料**B**と合わせて炒める。
+    - `火傷`に注意。
+</details>
+
+<details>
+<summary>これは中身が整形される</summary>
+
+1. 野菜**A**の皮を剥く。
+2. 乱切りにする。
+3. 調味料**B**と合わせて炒める。
+    - `火傷`に注意。
+</details>
+```
+
+# 結果
+
+<details>
+<summary>これは中身が整形されない</summary>
+1. 野菜**A**の皮を剥く。
+2. 乱切りにする。
+3. 調味料**B**と合わせて炒める。
+    - `火傷`に注意。
+</details>
+
+<details>
+<summary>これは中身が整形される</summary>
+
+1. 野菜**A**の皮を剥く。
+2. 乱切りにする。
+3. 調味料**B**と合わせて炒める。
+    - `火傷`に注意。
+</details>
+
+# おまけ
+
+```html
+<details open>
+<summary>`open`属性を与えるとデフォルトで開く</summary>
+
+| 肉A  | 肉B  |
+|:----:|:----:|
+|うまい|まずい|
+</details>
+```
+
+<details open>
+<summary>open属性を与えるとデフォルトで開く</summary>
+
+| 肉A  | 肉B  |
+|:----:|:----:|
+|うまい|まずい|
+</details>
+
 ### 参考資料
 [GitHubを使った開発フロー(初心者用)](https://qiita.com/naogify/items/a5d1dccc89c5e96abed6)
+[GitHubのMarkdownで折りたたみ記法の中身を整形させる方法](https://gist.github.com/Phroneris/e7e6c869640b95bd42434bdc995cd4f6)
