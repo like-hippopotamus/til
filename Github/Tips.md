@@ -328,5 +328,6 @@ URLが長くて読みづらくなる場合や同じリンクを何度も使用�
 </details>
 
 ### 参考資料
-[GitHubを使った開発フロー(初心者用)](https://qiita.com/naogify/items/a5d1dccc89c5e96abed6)
-[GitHubのMarkdownで折りたたみ記法の中身を整形させる方法](https://gist.github.com/Phroneris/e7e6c869640b95bd42434bdc995cd4f6)
+- [GitHubを使った開発フロー(初心者用)](https://qiita.com/naogify/items/a5d1dccc89c5e96abed6)
+- [GitHubのMarkdownで折りたたみ記法の中身を整形させる方法](https://gist.github.com/Phroneris/e7e6c869640b95bd42434bdc995cd4f6)
+- [リポジトリのリリースを管理する](https://docs.github.com/ja/github/administering-a-repository/managing-releases-in-a-repository)
