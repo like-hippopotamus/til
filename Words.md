@@ -44,6 +44,7 @@ CDNとは、ウェブコンテンツをより効率的に配信できるよう�
 ### Q
 ### R
 ### S
+- [Spring Boot 最新バージョンの確認方法](https://yu-report.com/entry/springbootversion/)
 ### T
 ### U
 ### V
