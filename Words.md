@@ -28,6 +28,7 @@ CDNとは、ウェブコンテンツをより効率的に配信できるよう�
 ### D
 - [DNS](https://blog.senseshare.jp/dns.html)
 ### E
+- [enum](https://tkmtys.hatenablog.com/entry/2015/10/11/182918)
 ### F
 ### G
 ### H
@@ -36,6 +37,8 @@ CDNとは、ウェブコンテンツをより効率的に配信できるよう�
 ### J
 ### K
 ### L
+#### Logback
+- [Logback](https://b1san-blog.com/post/spring/spring-log/)
 ### M
 ### N
 - [Node.js](https://qiita.com/non_cal/items/a8fee0b7ad96e67713eb)
@@ -52,6 +55,7 @@ CDNとは、ウェブコンテンツをより効率的に配信できるよう�
 ### U
 ### V
 ### W
+- [WebDAV](https://www.kagoya.jp/howto/it-glossary/server/webdav/)
 ### X
 ### Y
 ### Z
