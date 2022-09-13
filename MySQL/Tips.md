@@ -9,3 +9,6 @@ FROM
   (SELECT @i:=0) AS INDEX_NUM
 , <table>;
 ```
+
+##### my.cnf
+https://qiita.com/yoheiW@github/items/bcbcd11e89bfc7d7f3ff
