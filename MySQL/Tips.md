@@ -10,5 +10,10 @@ FROM
 , <table>;
 ```
 
+#### paymentを含むテーブル名を取得するクエリ
+```
+select * from INFORMATION_SCHEMA.TABLES where TABLE_NAME like '%payment%';
+```
+
 ##### my.cnf
 https://qiita.com/yoheiW@github/items/bcbcd11e89bfc7d7f3ff
